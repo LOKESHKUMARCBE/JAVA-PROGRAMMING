@@ -1,0 +1,15 @@
+Register Number: 123
+Name: 11
+Mobile: 11
+E-mail: 11
+
+Register Number: 12345
+Name: RAJECH
+Mobile: 1234567890
+E-mail: ER@GMAIL.COM
+
+Register Number: 21BBS0100
+Name: EZHLIL
+Mobile: 1234567890
+E-mail: EZHLI@GMAIL.COM
+
